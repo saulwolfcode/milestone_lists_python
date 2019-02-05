@@ -1,0 +1,5 @@
+dropbox.cache
+.idea
+.git
+.vscode
+venv
